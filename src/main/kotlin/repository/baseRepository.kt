@@ -48,7 +48,7 @@ abstract class BaseRepository(){
             val strBuilder: StringBuilder = StringBuilder()
             val br: BufferedReader = BufferedReader(InputStreamReader(inputStream))
 
-            for (line in br.readLine()){
+            for (line in br.readLines()){
                 strBuilder.append(line)
             }
             return strBuilder.toString()
