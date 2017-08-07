@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlinpost.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlinpost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlinpost_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlinpost_main.iml" group="Kotlinpost" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlinpost_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlinpost_test.iml" group="Kotlinpost" />
+    </modules>
+  </component>
+</project>
